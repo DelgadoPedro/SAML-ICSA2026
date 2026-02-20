@@ -1,4 +1,4 @@
-# Replication Package — SMS on Software Architecture in MLOps Systems
+# SMS on Software Architecture in MLOps Systems
 
 This repository provides the replication package supporting a Systematic Mapping Study (SMS) on software architecture in MLOps systems, submitted to SAML @ ICSA 2026 (under review).
 
